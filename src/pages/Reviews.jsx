@@ -85,7 +85,7 @@ export default function Reviews() {
   return (
     <section id="review" className="py-12 bg-gray-900 text-white px-4 md:px-12">
       <h2 className="text-3xl md:text-4xl font-bold text-center text-yellow-400 mb-8">
-        Developer Reviews
+        Reviews
       </h2>
       <div className="max-w-4xl mx-auto">
         {/* Display existing reviews */}
